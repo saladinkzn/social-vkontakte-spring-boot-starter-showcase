@@ -1,4 +1,4 @@
-Showcase for [vkontakte-social-spring-boot-starter](https://github.com/saladinkzn/social-vkontakte-spring-boot-starter
+Showcase for [vkontakte-social-spring-boot-starter](https://github.com/saladinkzn/social-vkontakte-spring-boot-starter)
 
 *Usage*
 

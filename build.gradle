@@ -3,15 +3,13 @@ apply plugin: 'application'
 
 mainClassName='ru.shadam.spring.boot.showcase.Program'
 
-sourceCompatibility = '1.8'
-targetCompatibility = '1.8'
+sourceCompatibility = '1.6'
+targetCompatibility = '1.6'
 
 repositories {
 	jcenter()
 	maven { url 'http://oss.jfrog.org/artifactory/oss-release-local' }
-	maven {
-		url 'http://fugru.com/archiva/repository/snapshots'
-	}
+	maven { url 'http://fugru.com/archiva/repository/snapshots' }
 }
 
 dependencies {
